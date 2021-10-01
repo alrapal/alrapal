@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alrapal AKA Alexandre Rancati-Palmer
-- 👀 I’m interested in music, video-games and culture as well as improving the world
-- 🌱 I’m currently learning system development, software analysis and design 
+- 👀 I’m interested in music, culture as well as improving the world
+- 🌱 I’m currently learning Software Architecture and Web/Mobile devolpment 
 - 📫 you can reach me via email: alexandrerancatipalmer@gmail.com 
                    or via linkedIn : https://www.linkedin.com/in/alexandre-rancati-palmer/
 
